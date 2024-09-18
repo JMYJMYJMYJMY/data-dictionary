@@ -1,0 +1,7 @@
+AMR data
+
+100,000 rows of 12 variation
+
+These data represent the sort of data that might be obtained from the Second Generatino Surveillance System (SGSS)
+
+*ID integer - a unique identifier for each person
